@@ -9,5 +9,4 @@ Anfeket/Anfeket is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-the heck is this im not one of those 13y old girls haha
-i like anime and osu thats all
+yoo github
